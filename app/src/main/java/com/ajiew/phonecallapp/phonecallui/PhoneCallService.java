@@ -1,7 +1,7 @@
 package com.ajiew.phonecallapp.phonecallui;
 
 import android.os.Build;
-import android.support.annotation.RequiresApi;
+import androidx.annotation.RequiresApi;
 import android.telecom.Call;
 import android.telecom.InCallService;
 
